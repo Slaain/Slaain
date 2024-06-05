@@ -13,7 +13,7 @@
 
 - 📫 Comment me contacter **idris1390@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/idris-ali-b83a03210/](https://www.linkedin.com/in/idris-ali-b83a03210/)
+- 📄 A savoir a propos de mes experiences [https://www.linkedin.com/in/idris-ali-b83a03210/](https://www.linkedin.com/in/idris-ali-b83a03210/)
 
 - ⚡ Fun fact **Je pense que je suis quelqu'un d'assez ouvert d'esprit et d'assez joueurs 😎**
 
