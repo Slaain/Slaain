@@ -11,15 +11,15 @@
 
 - 💬 Demandez-moi à propos de **Des mes objectif, et ce que je vise en tant que developpeur**
 
-- 📫 "Comment me contacter **idris1390@gmail.com**
+- 📫 Comment me contacter **idris1390@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Ali/Downloads/CV%20IDRIS%20ALI%202024%20(3).pdf](file:///C:/Users/Ali/Downloads/CV%20IDRIS%20ALI%202024%20(3).pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/idris-ali-b83a03210/](https://www.linkedin.com/in/idris-ali-b83a03210/)
 
 - ⚡ Fun fact **Je pense que je suis quelqu'un d'assez ouvert d'esprit et d'assez joueurs 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/idris-ali-b83a03210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/idris-ali-b83a03210/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idris-ali-b83a03210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idris-ali-b83a03210/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
