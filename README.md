@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur **Mon portfolio et mon projet d'examen en React native 😏**
 
-- 🌱 Je m'instruis actuellement sur **La big data, et la Cybersécurité 😤**
+- 🌱 Je m'instruis actuellement sur **Le cloud, et la Cybersécurité 😤**
 
 - 👯 Je cherche à collaborer sur **Tout projet qui me semble interessant et qui peuvent me faire progresser 😁**
 
