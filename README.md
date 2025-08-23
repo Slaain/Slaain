@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, C'est moi Idris Ali</h1>
-<h3 align="center">Je suis développeur FullStack junior passionné par mes études. Je recherche actuellement une alternance pour mon master !</h3>
+<h3 align="center">Je suis Architecte des systèmes d'informations spécialisé en tant que Devops, actuellement en alternance chez Anapix-Medical !</h3>
 
-- 🔭 Je travaille actuellement sur **Mon portfolio et mon projet d'examen en React native 😏**
+- 🔭 Je travaille actuellement sur **Mon projet de fin d'année 😏**
 
 - 🌱 Je m'instruis actuellement sur **Le cloud, et la Cybersécurité 😤**
 
